@@ -1,2 +1,2 @@
 - Dr. Doom
-- Otro villano malo
+- Red skool
