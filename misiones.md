@@ -1,3 +1,4 @@
 # Misiones
 
-* Investigar los planes de doctor Doom
+- Investigar los planes de doctor Doom
+- Capturar a Red Skool
